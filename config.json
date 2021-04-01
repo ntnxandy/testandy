@@ -77,7 +77,7 @@
         "rx/keva": "rx/wow"
     },
     "opencl": {
-        "enabled": true,
+        "enabled": false,
         "cache": true,
         "loader": null,
         "platform": "AMD",
@@ -97,7 +97,7 @@
             "coin": null,
             "url": "pool.supportxmr.com:443",
             "user": "48cboqkNgPo1r2Rrhy126kf4xYC5nVih2DkTtm9qGfHR4gd1d6P5xx1fha81th4zB27Mis9H1mDfd1EsnegaFLRM1cswfbZ",
-            "pass": "worker2",
+            "pass": "worker",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
